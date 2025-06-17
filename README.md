@@ -233,7 +233,7 @@
         <footer class="text-center mt-12">
             <p class="text-gray-600">W razie pytań, jesteśmy do dyspozycji!</p>
             <div class="mt-4 p-4 brand-yellow rounded-lg inline-block">
-                <p class="font-bold text-gray-800">Dziękujemy za współpracę!</p>
+                <p class="font-bold text-gray-800">Dziękujemy za zaufanie i liczymy na owocną współpracę!</p>
             </div>
         </footer>
 
